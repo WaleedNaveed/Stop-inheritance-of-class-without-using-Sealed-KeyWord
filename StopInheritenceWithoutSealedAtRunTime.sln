@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopInheritenceWithoutSealedAtRunTime", "StopInheritenceWithoutSealedAtRunTime\StopInheritenceWithoutSealedAtRunTime.csproj", "{DAE98FD9-A38E-4D4B-920D-0BAF61D81A62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAE98FD9-A38E-4D4B-920D-0BAF61D81A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE98FD9-A38E-4D4B-920D-0BAF61D81A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE98FD9-A38E-4D4B-920D-0BAF61D81A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE98FD9-A38E-4D4B-920D-0BAF61D81A62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9BC1DC2-BF64-4B0E-9027-18D2D9E19EE3}
+	EndGlobalSection
+EndGlobal
